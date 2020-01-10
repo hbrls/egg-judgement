@@ -1,0 +1,35 @@
+{
+  "name": "egg-judgement",
+  "version": "0.0.1",
+  "description": "",
+  "eggPlugin": {
+    "name": "judgement"
+  },
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "egg-judgement"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "egg": "2.16.0",
+    "egg-bin": "4.9.0",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb": "14.1.0"
+  },
+  "peerDependencies": {
+    "gulp": "*",
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "scripts": {
+    "start": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pro-web-ng/egg-judgement"
+  },
+  "author": "hbrls<shuaizhexu@gmail.com>",
+  "license": "MIT"
+}
